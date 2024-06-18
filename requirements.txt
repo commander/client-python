@@ -8,3 +8,4 @@ requests>=2.25
 setuptools>=59.2.0
 sseclient~=0.0.27
 stix2~=3.0.1
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
